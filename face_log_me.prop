@@ -3,7 +3,9 @@
     "face_log_me"  : {
       "description": "Deverouille un mac si un visage est reconnut",
       "version"    : "1.0",
-	  "id1": "michaël"
+	    "id1": "mike",
+      "url_auth_ok" : "",
+      "url_auth_nok" : ""
     }
   }
 }
